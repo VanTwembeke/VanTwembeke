@@ -85,40 +85,6 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 
 ## 🐍 Contribution Snake
 
-<!-- ─────────────────────────────────────────────────────────────────────────
-  SETUP REQUIRED — One-time GitHub Action to generate the snake animation.
-  
-  1. Create the file: .github/workflows/snake.yml in your profile repo
-  2. Paste this content:
-
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: VanTwembeke
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run the action once manually, then the snake below will appear.
-  4. Uncomment the lines below (remove the HTML comment tags).
-─────────────────────────────────────────────────────────────────────────── -->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanTwembeke/VanTwembeke/output/github-snake-dark.svg" />
@@ -147,37 +113,6 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 
 ## ⏱️ Coding Activity
 
-<!-- ─────────────────────────────────────────────────────────────────────────
-  SETUP REQUIRED — WakaTime auto-updates your coding stats weekly.
-
-  1. Create a free account at https://wakatime.com
-  2. Install the WakaTime plugin in your editor (VS Code, WebStorm, etc.)
-  3. Get your API key from https://wakatime.com/api-key
-  4. In this repo → Settings → Secrets → Actions, add:
-       WAKATIME_API_KEY = <your key>
-  5. Create .github/workflows/waka-readme.yml with:
-
-     name: WakaTime Readme
-     on:
-       schedule:
-         - cron: "0 0 * * 1"
-       workflow_dispatch:
-     jobs:
-       update-readme:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: athul/waka-readme@master
-             with:
-               WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-               SHOW_TITLE: true
-               TIME_RANGE: last_7_days
-               SHOW_TIME: true
-
-  6. The section below will auto-fill between the START/END comments.
-  7. Make your WakaTime profile public at: Settings → Display → public
-─────────────────────────────────────────────────────────────────────────── -->
-
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -194,17 +129,12 @@ No activity tracked
 
 ## 🔖 Featured Projects
 
-<!-- ─────────────────────────────────────────────────────────────────────────
-  Uncomment this section and replace YOUR_REPO_1 / YOUR_REPO_2 with your
-  actual repository names once you have projects to show.
-─────────────────────────────────────────────────────────────────────────── -->
-
 <p align="center">
-  <a href="https://github.com/VanTwembeke/YOUR_REPO_1">
+  <a href="https://github.com/VanTwembeke/VanTwembeke">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=VanTwembeke&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
   &nbsp;
-  <a href="https://github.com/VanTwembeke/YOUR_REPO_2">
+  <a href="https://github.com/VanTwembeke/IntrICT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=IntrICT&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
 </p>
