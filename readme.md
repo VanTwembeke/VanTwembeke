@@ -133,10 +133,6 @@ No activity tracked
   <a href="https://github.com/VanTwembeke/VanTwembeke">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=VanTwembeke&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
-  &nbsp;
-  <a href="https://github.com/VanTwembeke/IntrICT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=IntrICT&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
-  </a>
 </p>
 
 ---
