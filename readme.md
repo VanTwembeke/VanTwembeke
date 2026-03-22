@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4A7C59&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+websites+people+love+to+use.;Clean+design.+Real+results.;From+landing+page+to+full+platform." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4A7C59&center=true&vCenter=true&width=620&lines=I+turn+ideas+into+websites+people+love+to+use.;Clean+design.+Real+results.+Powered+by+AI.;From+landing+page+to+full+web+platform." alt="Typing SVG" />
 </p>
 
 <br/>
@@ -12,35 +12,59 @@
 
 ## 👋 About Me
 
-I'm a **website builder and full-stack developer** based in Belgium. My focus is on building digital things that work — not just technically, but for the people using them.
+I'm a **website builder and full-stack developer** based in Ghent, Belgium. I build fast, focused digital products — not just for the sake of shipping, but to actually help businesses grow.
 
-I care about:
+What I care about:
 
-- **Speed** — pages that load fast and feel instant
+- **Conversion** — websites that turn visitors into customers
+- **Speed** — pages that feel instant, every time
 - **Clarity** — interfaces that don't need a manual
-- **Results** — websites that help businesses grow
+- **AI** — I integrate modern AI tools into every stage of my workflow
 
 > *"Good software removes friction. Great software makes people wonder how they lived without it."*
 
 ---
 
-## 🌐 What I Build
+## 🤖 AI in My Workflow
 
-| 🌐 Websites | 🛒 E-commerce | ⚙️ Web Apps | 📊 Dashboards |
-|:---|:---|:---|:---|
-| Landing pages | Online shops | Custom tools | Internal tools |
-| Business sites | Product platforms | Client portals | Live data views |
-| Portfolios | Checkout systems | Booking systems | Reporting UIs |
+I use AI not as a gimmick — but as a genuine part of how I design, build and ship faster.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-2d2d2d?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-2d2d2d?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-2d2d2d?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-2d2d2d?style=for-the-badge&logo=vercel&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-4A7C59?style=for-the-badge&logo=chainlink&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/v0%20by%20Vercel-2d2d2d?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Stack
+## 🌐 What I Build
+
+| 🌐 Websites | 🛒 E-commerce | ⚙️ Web Apps | 🤖 AI-Powered |
+|:---|:---|:---|:---|
+| Landing pages | Online shops | Client portals | AI chat integrations |
+| Business sites | Product platforms | Booking systems | Smart automations |
+| Portfolios | Checkout systems | Custom dashboards | Content generators |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind,nodejs,html,css" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,vercel,figma,vscode,linux" />
 </p>
 
 ---
@@ -48,7 +72,7 @@ I care about:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VanTwembeke&show_icons=true&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VanTwembeke&show_icons=true&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59&ring_color=4A7C59" />
   &nbsp;
   <img height="165" src="https://streak-stats.demolab.com?user=VanTwembeke&theme=default&hide_border=true&ring=4A7C59&fire=e07b39&currStreakLabel=4A7C59" />
 </p>
@@ -59,10 +83,56 @@ I care about:
 
 ---
 
+## 🐍 Contribution Snake
+
+<!-- ─────────────────────────────────────────────────────────────────────────
+  SETUP REQUIRED — One-time GitHub Action to generate the snake animation.
+  
+  1. Create the file: .github/workflows/snake.yml in your profile repo
+  2. Paste this content:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: VanTwembeke
+               outputs: |
+                 dist/github-snake.svg
+                 dist/github-snake-dark.svg?palette=github-dark
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Run the action once manually, then the snake below will appear.
+  4. Uncomment the lines below (remove the HTML comment tags).
+─────────────────────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanTwembeke/VanTwembeke/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanTwembeke/VanTwembeke/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/VanTwembeke/VanTwembeke/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanTwembeke&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanTwembeke&theme=github-compact&hide_border=true&area=true&color=4A7C59&line=4A7C59&point=d4c5b0" width="100%" />
 </p>
 
 ---
@@ -70,24 +140,67 @@ I care about:
 ## 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanTwembeke&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VanTwembeke&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </p>
+
+---
+
+## ⏱️ Coding Activity
+
+<!-- ─────────────────────────────────────────────────────────────────────────
+  SETUP REQUIRED — WakaTime auto-updates your coding stats weekly.
+
+  1. Create a free account at https://wakatime.com
+  2. Install the WakaTime plugin in your editor (VS Code, WebStorm, etc.)
+  3. Get your API key from https://wakatime.com/api-key
+  4. In this repo → Settings → Secrets → Actions, add:
+       WAKATIME_API_KEY = <your key>
+  5. Create .github/workflows/waka-readme.yml with:
+
+     name: WakaTime Readme
+     on:
+       schedule:
+         - cron: "0 0 * * 1"
+       workflow_dispatch:
+     jobs:
+       update-readme:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: athul/waka-readme@master
+             with:
+               WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+               SHOW_TITLE: true
+               TIME_RANGE: last_7_days
+               SHOW_TIME: true
+
+  6. The section below will auto-fill between the START/END comments.
+  7. Make your WakaTime profile public at: Settings → Display → public
+─────────────────────────────────────────────────────────────────────────── -->
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 ## 🔖 Featured Projects
 
+<!-- ─────────────────────────────────────────────────────────────────────────
+  Uncomment this section and replace YOUR_REPO_1 / YOUR_REPO_2 with your
+  actual repository names once you have projects to show.
+─────────────────────────────────────────────────────────────────────────── -->
+
+<!--
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/VanTwembeke/YOUR_REPO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=YOUR_REPO_1&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://github.com/VanTwembeke/YOUR_REPO_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=YOUR_REPO_2&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
 </p>
-
-> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.
+-->
 
 ---
 
