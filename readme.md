@@ -103,14 +103,6 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 
 ---
 
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanTwembeke&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
