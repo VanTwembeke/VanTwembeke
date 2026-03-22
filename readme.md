@@ -199,17 +199,15 @@ No activity tracked
   actual repository names once you have projects to show.
 ─────────────────────────────────────────────────────────────────────────── -->
 
-<!--
 <p align="center">
   <a href="https://github.com/VanTwembeke/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=YOUR_REPO_1&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=VanTwembeke&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
   &nbsp;
   <a href="https://github.com/VanTwembeke/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=YOUR_REPO_2&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=IntrICT&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
 </p>
--->
 
 ---
 
