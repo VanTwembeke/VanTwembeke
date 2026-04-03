@@ -72,13 +72,7 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VanTwembeke&show_icons=true&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59&ring_color=4A7C59" />
-  &nbsp;
   <img height="165" src="https://streak-stats.demolab.com?user=VanTwembeke&theme=default&hide_border=true&ring=4A7C59&fire=e07b39&currStreakLabel=4A7C59" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanTwembeke&layout=compact&theme=default&hide_border=true&title_color=4A7C59&langs_count=6" />
 </p>
 
 ---
@@ -123,7 +117,7 @@ JSON         0 secs                ░░░░░░░░░░░░░░░
 ## 🔖 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/VanTwembeke/VanTwembeke">
+  <a href="https://github.com/VanTwembeke/intrict">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=VanTwembeke&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
   </a>
 </p>
