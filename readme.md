@@ -102,13 +102,16 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Total Time: 5 hrs 32 mins
+Total Time: 6 hrs 14 mins
 
-TypeScript   5 hrs 11 mins         ███████████████████████▒░   93.42 %
-HTML         20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-SQL          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript   5 hrs 39 mins         ██████████████████████░░░   88.32 %
+HTML         20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+SQL          11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Markdown     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
