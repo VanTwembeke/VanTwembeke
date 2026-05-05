@@ -118,16 +118,6 @@ Git Config    0 secs                ░░░░░░░░░░░░░░�
 
 ---
 
-## 🔖 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/VanTwembeke/intrict">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanTwembeke&repo=VanTwembeke&theme=default&hide_border=true&title_color=4A7C59&icon_color=4A7C59" />
-  </a>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
