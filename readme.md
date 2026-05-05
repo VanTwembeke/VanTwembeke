@@ -69,14 +69,6 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=VanTwembeke&theme=default&hide_border=true&ring=4A7C59&fire=e07b39&currStreakLabel=4A7C59" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
