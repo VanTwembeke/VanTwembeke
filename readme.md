@@ -94,12 +94,12 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2026 - To: 19 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-Total Time: 24 mins
+Total Time: 10 mins
 
-TypeScript   25 mins               █████████████████████▒░░░   85.44 %
-Other        4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+TypeScript   9 mins                ███████████████████████▒░   93.01 %
+Markdown     0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
 ```
 
 <!--END_SECTION:waka-->
