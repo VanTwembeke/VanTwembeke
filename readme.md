@@ -94,16 +94,16 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 5 hrs 3 mins
+Total Time: 4 hrs 41 mins
 
-Other        2 hrs 18 mins         ████████░░░░░░░░░░░░░░░░░   31.37 %
-TypeScript   1 hr 50 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-JavaScript   1 hr 23 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Bash         33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JSON         30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Markdown     25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Other        1 hr 54 mins          ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+JavaScript   1 hr 41 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+JSON         1 hr 4 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+TypeScript   59 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Bash         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Markdown     19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
