@@ -94,11 +94,12 @@ I use AI not as a gimmick — but as a genuine part of how I design, build and s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
 Total Time: 0 secs
 
-No activity tracked
+Markdown   0 secs                ███████████████████░░░░░░   75.71 %
+Other      0 secs                ██████░░░░░░░░░░░░░░░░░░░   24.29 %
 ```
 
 <!--END_SECTION:waka-->
